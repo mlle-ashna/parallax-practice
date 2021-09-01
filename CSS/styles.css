@@ -1,0 +1,18 @@
+.nav-bg {
+    background-color: #2b0391;
+}
+
+.big-picture {
+    background-image: url(https://images.unsplash.com/photo-1623392562417-35f4edf226e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+    height: 500px;
+}
+
+.font-change {
+    font-family: 'Permanent Marker', cursive;
+    color: #faecd4;
+}
+
+.font-change2 {
+    font-family: 'Hina Mincho', serif;
+    color: #faecd4;
+}
